@@ -1,9 +1,9 @@
 import React from 'react'
-import Resturent from './components/Basics/Resturent'
+import Resturant from './components/Basics/Resturant'
 const App = () => {
   return (
     <div>
-      <Resturent/>
+      <Resturant/>
     </div>
   )
 }
